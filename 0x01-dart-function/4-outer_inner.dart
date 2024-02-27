@@ -1,4 +1,4 @@
-// Define the inner function
+ // Define the inner function
 String inner(String name) {
   // Split the name into two words
   List<String> nameParts = name.split(' ');
